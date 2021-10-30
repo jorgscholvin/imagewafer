@@ -3,9 +3,10 @@ Simple PY code to generate an image wafer using phidl
 
 Install phidl first
 
-imageWafer.py = Conversion script
-mitnano.jpg = Sample image
-imageWafer.zip = GDS file output as example (136 MB)
+Files:
+1. imageWafer.py = Conversion script
+2. mitnano.jpg = Sample image
+3. imageWafer.zip = GDS file output as example (136 MB)
 
 Run py script, and modify the parameters to use your own image & texts, or adjust pixel sizes.
 
