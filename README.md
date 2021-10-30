@@ -1,8 +1,6 @@
 # imagewafer
 Simple PY code to generate an image wafer using phidl
 
-~~~
-
 Install phidl first
 
 imageWafer.py --  Conversion script
@@ -13,7 +11,7 @@ Run py script, and modify the parameters to use your own image & texts, or adjus
 
 Don't use too many small pixels (harder to modulate brightness on a 5 um pixel than a 50 um pixel, and large number of pixels can cause slow conversion)
 
-~~~
+--=--=--=--=--
 
 Tips:
 
